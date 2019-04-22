@@ -1,0 +1,2953 @@
+[
+    {
+        "name": "Acetaminophen",
+        "type": "Analgesics / Antipyretics",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "N-(4-hydroxyphenyl)acetamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Acetanilid",
+        "type": "Analgesics",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "N-phenylacetamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Acetylphenylhydrazine",
+        "type": "Antimicrobial",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "1-Acetyl-2-phenylhydrazine, Acetylphenylhydrazine",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Aminophenazone",
+        "type": "Analgesics",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-dimethylamino-1,5-dimethyl-2-phenyl-pyrazol-3-one",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Antazoline",
+        "type": "Antihistamine",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "N-benzyl-N-(4,5-dihydro-1H-imidazol-2-ylmethyl)aniline",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Antipyrine",
+        "type": "Analgesics / Antipyretics",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "2,3-DIMETHYL-1-PHENYL-3-PYRAZOLIN-5-ONE",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Ascorbic Acid",
+        "type": "Vitamin",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "(R)-3,4-dihydroxy-5-((S)- 1,2-dihydroxyethyl)furan-2(5H)-one",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Aspirin",
+        "type": "Anti Inflammatory",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "2-acetyloxybenzoic acid",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Astemizole",
+        "type": "Antihistamine",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "1-[(4-fluorophenyl)methyl]-N-[1-[2-(4-methoxyphenyl)ethyl]-4 -piperidyl]-benzoimidazol-2-amine",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Beta-Naphthol",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "2-Naphthol",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Celebrex",
+        "type": "Sulfa Drug",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-[5-(4-methylphenyl)- 3-(trifluoromethyl)-1H-pyrazol-1-yl] benzenesulfonamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Chloramphenicol",
+        "type": "Antibacterial",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "2,2-dichloro-N-[1,3-dihydroxy-1-(4-nitrophenyl)-propan-2-yl] -acetamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Chlorine",
+        "type": "Disinfectant",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "Chlorine Dioxide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Chloroquine",
+        "type": "Antimalarials",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "N'-(7-chloroquinolin-4-yl)-N,N-diethyl-pentane-1,4-diamine",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Ciprofloxacin",
+        "type": "Quinolones",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "1-cyclopropyl-6-fluoro-4-oxo-7-piperazin-1-yl-quinoline-3-ca rboxylic acid",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Colchicine",
+        "type": "Anti Inflammatory",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "(S)-N-(5,6,7,9-tetrahydro-1,2,3,10-tetramethoxy-9-oxobenzo[a ] heptalen-7-yl) acetamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Dapsone",
+        "type": "Sulfones",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-(4-aminophenyl)sulfonylaniline",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Dimercaprol",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "2,3-Dimercaptopropanol",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Diphenhydramine",
+        "type": "Antihistamine",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "2-benzhydryloxy-N,N-dimethyl-ethanamine",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Dopamine",
+        "type": "Benzenoids",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-(2-aminoethyl)benzene-1,2-diol",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Doxorubicin",
+        "type": "Chemotherapeutic",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "10-(4-amino-5-hydroxy-6-methyl-oxan-2-yl)oxy-6,8,11-t rihydroxy-8-(2-hydroxyacetyl)-1-methoxy-9,10-dihydro-7H-tetr acene-5,12-dione",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Ethanol",
+        "type": "Disinfectants",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "Ethanol",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Furazolidone",
+        "type": "Antibiotics",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "3-[(5-nitro-2-furyl)methylideneamino]oxazolidin-2-one",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Furosemide",
+        "type": "Diuretic",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-chloro-2-(furan-2-ylmethylamino)-5-sulfamoylbenzoic acid",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Gadopentetate dimeglumine",
+        "type": "Contrast Agent",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "2-[bis[2-[carboxymethyl-(2-oxido-2-oxoethyl)amino]ethyl]amin o]acetate; gadolinium(+3) cation; (2R,3R,4R,5S)-6-methylaminohexane-1,2,3,4,5-pentol",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Glucosulfone",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Glyburide",
+        "type": "Antidiabetic Agent",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "5-chloro-N-[2-[4-(cyclohexylcarbamoylsulfamoyl)phenyl]ethyl] -2-methoxy-benzamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Henna",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-hydroxynaphthalene-1,2-dione",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Ibuprofen",
+        "type": "Analgesics / Antipyretics",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "2-[4-(2-methylpropyl)phenyl]propanoic acid",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Isobutyl Nitrite",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "Nitrous acid, 2-methylpropyl ester",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Isoniazid",
+        "type": "Antibiotics",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "pyridine-4-carbohydrazide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Lamotrigine",
+        "type": "Antidepressants",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "6-(2,3-dichlorophenyl)-1,2,4-triazine-3,5-diamine",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Levofloxacin",
+        "type": "Anti-bacterial",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "(-)-(S)-9-fluoro-2,3-dihydro-3-methyl-10-(4-methyl-1-piperaz inyl)-7-oxo-7Hpyrido[1,2,3-de]-1,4 benzoxazine-6-carboxylic acid hemihydrate",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Lisinopril",
+        "type": "Antihypertensive Agents",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "(2S)-1-[(2S)-6-amino-2-{[(1S)-1-carboxy-3-phenylpropyl]amino }hexanoyl]pyrrolidine-2-carboxylic acid",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Magnevist",
+        "type": "Contrast Agent",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "2-[bis[2-[carboxymethyl-(2-oxido-2-oxoethyl)amino]ethyl]amin o]acetate; gadolinium(+3) cation; (2R,3R,4R,5S)-6-methylaminohexane-1,2,3,4,5-pentol",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Mefloquine",
+        "type": "Anitmalarials",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "[2,8-bis(trifluoromethyl)quinolin-4-yl]-piperidin-2-ylmethan ol",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Menadiol Sodium Sulfate (Vitamin k4 sodium sulfate)",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Menadione",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "2-methylnaphthalene-1,4-dione",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Menadione sodium Bisulfite (Vitamin K3 sodium bisulfite)",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Menthol",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "2-(2-Propyl)-5-methylcyclohexanol",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Mesalazine",
+        "type": "Anti Inflammatory",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "5-amino-2-hydroxy-benzoic acid",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Metformin",
+        "type": "Antidiabetic",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "1-carbamimidamido-N,N-dimethylmethanimidamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Methylene Blue",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "3,7-Bis(dimethylamino)phenazathionium chloride",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Mirtazapine",
+        "type": "Antidepressant",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "1,2,3,4,10,14b-hexahydro-2-methylpyrazino[2,1-a]pyrido[2,3-c ][2]benzazepine",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Moxifloxacin",
+        "type": "Anti-bacterial",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "1-cyclopropyl-7-[(1S,6S)-2,8-diazabicyclo[4.3.0]non-8-yl]-6- fluoro-8-methoxy-4-oxo-quinoline-3-carboxylic acid",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Nalidixic Acid",
+        "type": "Antibacterial",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "1-ethyl-7-methyl-4-oxo-[1,8]naphthyridine-3-carboxylic acid",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Naphthalene",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "Naphthalene",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Nimesulide",
+        "type": "Anti-Inflammatory Agents",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "N-[4-nitro-2-(phenoxy)phenyl]methanesulfonamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Niridazole",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "1-(5-Nitro-2-thiazolyl)-2-imidazolinone",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Nitrofurantoin",
+        "type": "Cytotoxic / Antibacterial",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "1-[(5-nitro-2-furyl)methylideneamino]imidazolidine-2,4-dione",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Nitrofurazone",
+        "type": "Cytotoxic / Antibacterial",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "1-amino-N-[(5-nitro-2-furyl)methylideneamino]methanamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Norfloxacin",
+        "type": "Antibiotics",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "1-ethyl-6-fluoro-4-oxo-7-piperazin-1-yl-1H-quinoline-3-carbo xylic acid",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Oxidase, Urate",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "Aspergilus urate oxidase",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Pamaquine",
+        "type": "Antimalarials",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "N,N-diethyl-N'-(6-methoxyquinolin-8-yl)pentane-1,4-diamine",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Para-Aminobenzoic Acid",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-Aminobenzoic Acid",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Pefloxacin",
+        "type": "Anti-Infective",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "1-ethyl-6-fluoro-7-(4-methylpiperazin-1-yl)-4-oxo-quinoline- 3-carboxylic acid",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Pentaquine",
+        "type": "Antimalarials",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "1,5-Pentanediamine, N-(6-methoxy-8-quinolinyl)-N'-(1-methylethyl)-",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Phenacetin",
+        "type": "Analgesics",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "N-(4-ethoxyphenyl)ethanamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Phenazopyridine",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "3-phenyldiazenylpyridine-2,6-diamine",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Phenylbutazone",
+        "type": "Anti-inflammatory",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-butyl-1,2-diphenyl-pyrazolidine-3,5-dione",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Phenylhydrazine",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "Phenylhydrazine",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Phenytoin",
+        "type": "Anticonvulsants",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "5,5-diphenylimidazolidine-2,4-dione",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Primaquine",
+        "type": "Antimalarials",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "N-(6-methoxyquinolin-8-yl)pentane-1,4-diamine",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Probenecid",
+        "type": "Analgesics / Antipyretics",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-[(dipropylamino)sulfonyl] benzoic acid",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Procainamide",
+        "type": "Cardiovascular Drugs",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-amino-N-(2-diethylaminoethyl)benzamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Proguanil",
+        "type": "Antimalarial",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "1-(4-chlorophenyl)-2-(N'-propan-2-ylcarbamimidoyl)guanidine",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Pyrimethamine",
+        "type": "Antimalarials",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "5-(4-chlorophenyl)-6-ethyl-pyrimidine-2,4-diamine",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Quinacrine",
+        "type": "Antimalarials",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "N'-(6-chloro-2-methoxy-acridin-9-yl)-N,N-diethyl-pentane-1,4 -diamine",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Quinidine",
+        "type": "Antiarrhythmic Agents / Antimalarials",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "(2-ethenyl-4-azabicyclo[2.2.2]oct-5-yl)-(6-methoxyquinolin-4 -yl)-methanol",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Quinine",
+        "type": "Antimalarials",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "(2-ethenyl-4-azabicyclo[2.2.2]oct-5-yl)-(6-methoxyquinolin-4 -yl)-methanol",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Rasburicase",
+        "type": "Leukemia drug",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "Rasburicase",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Stibophen",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "2-(2-Oxido-3,5-Disulphonatophenoxy)-1,3,2,Benzodioxastibole- 4-6-Disulphonate",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Streptomycin",
+        "type": "Anti-bacterial",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "5-(2,4-diguanidino-3,5,6-trihydroxy-cyclohexoxy)-4-[4,5-dihy droxy-6-(hydroxymethyl)-3-methylamino-tetrahydropyran-2-yl]o xy-3-hydroxy-2-methyl-tetrahydrofuran-3-carbaldehyde",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfacetamide",
+        "type": "Sulfonamides / Sulfones",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "N-acetyl-4-amino-benzenesulfonamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfacytine",
+        "type": "Sulfonamides / Sulfones",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-amino-N-(6-methoxy-2-methylpyrimidin-4-yl)benzenesulfonami de",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfadiazine",
+        "type": "Sulfonamides / Sulfones",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-amino-N-pyrimidin-2-yl-benzenesulfonamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfadimidine",
+        "type": "Sulfonamides / Sulfones",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-amino-N-(4,6-dimethylpyrimidin-2-yl)benzenesulfonamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfafurazole",
+        "type": "Sulfonamides / Sulfones",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-amino-N-(3,4-dimethyl-1,2-oxazol-5-yl)benzenesulfonamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfaguanidine",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-Amino-N-(diaminomethylene)benzenesulfon Amide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfamerazine",
+        "type": "Sulfonamides / Sulfones",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-amino-N-(4-methylpyrimidin-2-yl)benzenesulfonamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfamethoxazole",
+        "type": "Sulfonamides / Sulfones",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-amino-N-(5-methyloxazol-3-yl)-benzenesulfonamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfamethoxypyridazine",
+        "type": "Sulfonamides / Sulfones",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-Amino-N-(6-methoxy-3-pyridazinyl)-benzenesulfonamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfanilamide",
+        "type": "Chemotherapeutic",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-aminobenzenesulfonamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfapyridine",
+        "type": "Sulfonamides / Sulfones",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-amino-N-pyridin-2-ylbenzenesulfonamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfasalazine",
+        "type": "Sulfonamides / Sulfones",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "2-hydroxy-5-[4-(pyridin-2-ylsulfamoyl)phenyl]diazenyl-benzoi c acid",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfathiazole",
+        "type": "Cytotoxic / Antibacterial",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "4-amino-N-(1,3-thiazol-2-yl)benzenesulfonamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfonylurea",
+        "type": "Antidiabetic Agents",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "1-cyclohexyl-3-[[p-[2-(5-methylpyrazinecarboxamido)ethyl]phe nyl] sulfonyl]urea",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfoxone",
+        "type": "Antibacterial",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "[4-[4-(sulfinomethylamino)phenyl]sulfonylphenyl]aminomethane sulfinic acid",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Tamsulosin",
+        "type": "Sulfonamides",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "5-[2-[2-(2-ethoxyphenoxy)ethylamino]propyl]-2-methoxy-benzen esulfonamide",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Tiaprofenic Acid",
+        "type": "Anti Inflammatory",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "2-[5-(benzoyl)thiophen-2-yl]propanoic acid",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Toluidine Blue",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "3-Amino-7-(dimethylamino)-2-methylphenothiazin-5-ium Chloride",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Trihexyphenidyl",
+        "type": "Antiparkinson Agents",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "1-cyclohexyl-1-phenyl-3-(1-piperidyl)propan-1-ol",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Trimethoprim",
+        "type": "Antimalarials / Antibacterial",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "5-[(3,4,5-trimethoxyphenyl)methyl]pyrimidine-2,4-diamine",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Trinitrotoluene",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "2-methyl-1,3,5-trinitrobenzene",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Tripelennamine",
+        "type": "Antihistaminic",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "N-benzyl-N',N'-dimethyl-N-pyridin-2-yl-ethane-1,2-diamine",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "Vitamin K1",
+        "type": "Miscellaneous",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "Phytomenadione",
+        "sources": [
+            {
+                "name": "Drugs to Avoid (g6pddeficiency.org)",
+                "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/drugs-to-avoid-list/"
+            }
+        ]
+    },
+    {
+        "name": "2-Naphthol",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Acetanilide (acetanilid)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Acetazolamide",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Acetylphenylhydrazine (2-Phynylacetohydrazide)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Aldesulfone sodium (sulfoxone)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Aminophenazone (aminopyrine)",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Antazoline (antistine)",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Arginine (2-Amino-5-guanidinopentanoic acid)",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Arsine",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Ascorbic Acid",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Bean of St.Ignatius (Strychnos ignatii)",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Benorilate",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Beta-Naphthol (2-Naphthol)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Brinzolamide",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Bupivacaine",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Calcium Carboxylate",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Carbutamide",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Chloramphenicol",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Chloroquine",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Chloroquine + Proguanil",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Ciprofloxacin",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Colchicine",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Dapsone (diaphenylsulfone)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Diethylamine",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Dimenidrinato",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Dimercaprol",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Diphenhydramine (difenilhydramine)",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Dopamine",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Dorzolamide",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Doxorubicin",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Enoxacin",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Epirubicin",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Flumequine",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Furazolidone",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Glibenclamide",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Glibornuride",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Gliclazide",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Glimepiride",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Glipizide",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Glucosulfone (glucosulfone sodium)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Hydroxychloroquine",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Indigofera Tinctoria",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Isobutyl Nitrite",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Isoniazid",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Lawsone Inermis",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Levodopa",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Levofloxacin",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Lomefloxacin",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Mefloquine",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Menadiol Sodium Sulfate (Vitamin k4 sodium sulfate)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Menadione (menaphtone)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Menadione sodium Bisulfite (Vitamin K3 sodium bisulfite)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Mepacrine (Quinacrine)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Mesalazine - 5-Aminosalicylic Acid (paraminosalicylic acid)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "metamizole",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Methyltioninium Chloride (methylene blue)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Morpholine",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Moxifloxacin",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Nalidixic Acid",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Naphtalene, Pure (naphtalin)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Niridazole",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Nitric Oxide",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Nitrofural (nitrofurazone)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Nitrofurantoin",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Nitroglycerin",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Noramidopyrine",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Norfloxacin",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "O-Acetylsalicylic Acid (acetylsalicylic acid)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "O-Acetylsalicylic Acid + Acetanilide",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "O-Acetylsalicylic Acid + Ascorbic Acid",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "O-Acetylsalicylic Acid + Paracetamol",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Ofloxacin",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Oxidase, Urate (urate oxidase)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Pamaquine",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Para-Aminobenzoic Acid (4-Aminobenzoic Acid)",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Paracetamol (acetaminophen)",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Paracetamol + Propyphenazone",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Pefloxacin",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Pentaquine",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Phenacetin (acetophenetidin)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Phenazone (antipyrine)",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Phenazopyridine",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Phenylbutazone",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Phenytoin",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Phynylhydrazine",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Phytomenadione (Vitamin K1)",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Pipemidic Acid",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Prilocaine",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Primaquine",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Probenecid",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Procainamide",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Proguanil (chlorguanidine)",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Propylene Glycol",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Propyphenazone",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Pyrimethamine",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Quinidine",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Quinidine + Phynylhydrazine",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Quinidine + Quinine",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Quinine",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Rasburicase",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Sodium nitroprusside",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Spiramycin",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Stibophen (2-(2-Oxido-3,5-Disulphonatophenoxy)-1,3,2,Benzodioxastibole-4-6-Disulphonate)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Streptomycin",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Succimer",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfacetamide",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfacytine",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfadiazine",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfadiazine",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfadiazine + Trimethoprim",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfadimidine",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfadoxine",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfafurazole (sulfafurazone, sulfisoxazole)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfaguanidine",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfamerazine",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfamethizole",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfamethoxazole",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfamethoxypyridazine",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfanilamide (Sulphanilamide)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfapyridine",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfasalazine, Salazosulfapyridine (salazopyrin)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Sulfoxone",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Thiamphenicol",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Thiazosulfone (thiazolesulfone)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Tiaprofenic Acid",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Tolonium Chloride, Tolonium Chloride (toluidine blue)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Trihexyphynidyl (benzhexol)",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Trimethoprim",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Trimethoprim + Sulfamethoxazole",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Trinitrotoluene (2,4,6-Trinitrotoluene)",
+        "type": "",
+        "risk": "High",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    },
+    {
+        "name": "Tripelennamine",
+        "type": "",
+        "risk": "Medium",
+        "notes": "",
+        "otherNames": "",
+        "sources": [
+            {
+                "name": "Associazione Italiana Favismo",
+                "url": "https://www.g6pd.org/en/G6PDDeficiency/SafeUnsafe/"
+            }
+        ]
+    }
+]
