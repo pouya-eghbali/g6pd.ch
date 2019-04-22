@@ -54,3 +54,10 @@ searcher.addEventListener("keyup", function (event) {
         return item.element.style.display = "none";
     })
 })
+const about = document.getElementById("about");
+const close = document.getElementById("close-about");
+const results = document.getElementById("results");
+close.addEventListener("click", function (event) {
+    event.preventDefault();
+    about.style.display = "none";
+})

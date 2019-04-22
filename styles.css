@@ -6,6 +6,7 @@ html, body {
 }
 body {
     font-family: "Roboto", sans-serif;
+    padding-top: calc(2em + 80px);
 }
 h1, h2, h3, h4, h5 {
     font-family: "Raleway", sans-serif;
@@ -141,13 +142,18 @@ a:hover {
     border: 1px solid rgba(0,0,0,.1);
     background: rgba(96, 34, 96, 0.1);
     box-sizing: border-box;
-    margin-top: calc(2em + 80px)
+    position: relative;
 }
 #about > div {
     margin-top: 1.4em;
 }
 #about > div:first-of-type {
     margin-top: 0;
+}
+#close-about {
+    position: absolute;
+    right: 2em;
+    bottom: 2em;
 }
 /* RESPONSIVE */
 @media screen and (max-width: 600px) {
@@ -158,10 +164,10 @@ a:hover {
       font-size: 1em;
       padding: 1em;
   }
-  #about {
-      margin-top: calc(.5em + 50px);
-  }
   .search-item {
       margin-top: .5em;
+  }
+  body {
+      padding-top: calc(.5em + 50px);
   }
 }
