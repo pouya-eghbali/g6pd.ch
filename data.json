@@ -11738,5 +11738,533 @@
                 "url": "https://g6pddeficiency.org/wp/living-with-g6pd-deficiency/food-to-avoid/"
             }
         ]
+    },
+    {
+        "name": "Acetaminophen",
+        "otherNames": "Paracetamol, Calpol, Carisoma Co, Cosalgesic, Delimon, Dextrogesic, Dimotapp P, Distalgesic, Femerital, Fortagesic, Lobak, Medised, Migraleve , Myolgin, Norgesic, Paradeine, Paragesic, Paramax, Paramol, Parazolidin, Paxidal, Pharmidone, Pholcolix, Propain, Paedo-Sed, Paldesic, Pameton, Panadol, Panasorb, Rinurel (SA), Safapryn (Co), Salzone, Sudafed, Syndol, Tandalgesic, Triogesic, Tritussic, Uniflu, Veganin, Cafadol, Panadeine Co, Paracodol, Parake, Medocene, Neurodyne, Unigesic, Parahypon, Paralgin, Pardale, Solpadeine",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Acetophenetidine*",
+        "otherNames": "Phenacetin",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Amidopyrine",
+        "otherNames": "Aminopyrine, Aminophenazone, Aminophenazonium, Amidazofen, Amidopyrine-Pyramidon, Areumal, Baukal, Budirol, Depiral C, Dimethylamino Antipyrine, Dimethylaminophenazone, Fenodone, Fever, Ftalazone, Galenopyrine, Glucopirina, Hyparon, nst, Isoftal, Katareuma, Latepyrine, Metopirazone, Netsusarin",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "p-Aminobenzoic Acid",
+        "otherNames": "",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Anatazoline",
+        "otherNames": "Antistin-Privine, Otrivine Antisin, RBC, Vasocon-A",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Aspirin(Acetylsalicyclic Acid)",
+        "otherNames": "Aspergum, Breoprin, Caprin , Claradin, Laboprin, Levius, Nu-Seals, Paynocil, Solprin, Aspirin & Codeine, Aspirin & Papaveretum, Antoin, Codis, Dolasan, Doloxene, Equagesic, Hypon, Myolgin, Napsalgesic, Onadex-118, Robaxisal Forte, Safapryn, Trancoprin, Veganin, Zactirin",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Benzhexol",
+        "otherNames": "Artane, Bentex, Benzhexol, Broflex",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Chloramphenicol",
+        "otherNames": "Chloromycetin, Kemicetene, Sno-Phenicol, Chloromycetin & Hydrocortisone, Tanderil Chloramphenicol",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Chloroquine",
+        "otherNames": "Avloclor, Malarivon, Nivaquine",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Dapsone",
+        "otherNames": "Avlosulfon, DADPS, Dapsone, D.A.P.S., DDF, DDS, Diaphenylsulphone, Diphenason, Disulone, Disulphone, Dubronax, F1358, Novophone, NSC 6091, pp-Sulphodianiline, Sulphonyldianiline, Sulphon-mere, Maloprim & Codeine, Sulphona Oral, Udolac",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Diphenhydramine",
+        "otherNames": "Benadryl, Benafed, Benylin, Caladryl, Guanor, Histalix, Lotussin, Noradran, Pharmidone, Propain, Uniflu",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Isoniazid",
+        "otherNames": "Rimiform",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Levodopa(L-Dopa)",
+        "otherNames": "Berkdopa, Brocadopa, Larodopa, Levodopa, Madopar, Sinemet",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Menadione",
+        "otherNames": "Menaphthone, Phytomenadione, Synavit, Konakion",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Phenazone",
+        "otherNames": "Antipyrine, Auralgicin, Auraltone, Taumasthman, Phenazonium, Antipyrin, Azophenum, Alagesine, Penazona",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Phenylbutazone",
+        "otherNames": "Butacote, Butazolidin, Butazone, ButazolidinAlka, Parazolidin",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Phenytoin",
+        "otherNames": "Phenytoin, Epanutin, Garoin",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Probenecid",
+        "otherNames": "Benemid",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Procainamide",
+        "otherNames": "Durules, Pronestyl, Nikartrone, Pyramidon, Pirasco, Piraseptolo, Piro Rectal, Piroreumal, P6BP, Pyrabitalum, Reubon, Reumanova, Reumasdina, Reumoftal, Reumo-Termina, Reumotrone, Revulex, Suppnon",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Proguanil",
+        "otherNames": "Paludrine, Paludrinol, Chlorguanide, RP 3359, SN 12837, Proguanide, Chloroguanil, Chloruguane",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Pyrimethamine",
+        "otherNames": "Daraprim, Fansidar, Maloprim",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Quinidine",
+        "otherNames": "Quinidine, Quinicardine, Kinidin, Kinitard",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Quinine",
+        "otherNames": "Quinine",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Streptomycin",
+        "otherNames": "Streptomycin, Streptotriad",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Sulphacetamide",
+        "otherNames": "Sulphacetamide, Albucid, Bleph-10, Cortucid, Isoptocetamide, Ocusol, Sulfaped, Sulphacalyre, Sultrin",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Sulphacytine",
+        "otherNames": "-",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "SulphamethoxypyridazineSulphanilamideRP7522AcetylSulphamethoxypyridazine",
+        "otherNames": "Lederkyn, , Aseptilex, Aset-Sulfa, Durasul, Eusulfa, Exazol, Kemak, Kiron, Longusil, Metazina, Microcid, Midicel, Midikel, Minikel, Sulfadepot, Sulfadin, Sulfaitensa, Sulfalex, Sulfamizina, Sulfamyd, Sulfatar, Sulfa-Ultra, Sulforetent, Sulfo-Ridan, Sulforit, Sultrirene, Unisulfa",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Sulphapyridine",
+        "otherNames": "M & B 693",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Sulphadiazine",
+        "otherNames": "Sulphadiazine, Streptotriad, Sulphtriad",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Sulphafurazole",
+        "otherNames": "Sulphisoxazole, Sulphafuraz, Sulphafurazolum, Gantrisin, , Sulfazole, Urogen, Novosoxazole, Sulfizole, Gantrisine, Panoid, Urazole, Gantrisona, Chemovag, Koro-Sulf, Lipo-Gantrisin, SK-Soxazole, Sosol, Soxa, Solfagun, Soxomide, Sulfalar, Sulfrizin, Urizole, Valmatrol",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Sulphaguanidine",
+        "otherNames": "Sulphaguanidine, Guanimycin",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Sulphamethoxazole",
+        "otherNames": "Co-trimoxazole, Bactrim, Chemotrim, Comox, Cotrimox, Fectrim, Laratrim, Septrin",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Trimethoprim",
+        "otherNames": "Trimethoprim, Ipral, Monotrim, Syraprim, Tiempe, Trimogal, Trimopan, Bactrim, Chemotrim, Cofram, Comox, Cotrimox, Co-Trimoxazole, Laratrim, Polytrim",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Tripelennamine",
+        "otherNames": "Pyribenzamine, Sedilene, PBZ, Azaron",
+        "risk": "Medium",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Acetanilide",
+        "otherNames": "-",
+        "risk": "High",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Methylene Blue",
+        "otherNames": "-",
+        "risk": "High",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Naphthalene",
+        "otherNames": "-",
+        "risk": "High",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Nalidixic Acid",
+        "otherNames": "Mictral, Negram, Uriben",
+        "risk": "High",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Nidazole",
+        "otherNames": "Ambilhar",
+        "risk": "High",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Nitrofurantoin",
+        "otherNames": "Berkfurin, Ceduran, Furadantin, Furan, Macrodantin, Urantoin",
+        "risk": "High",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Pamaquine",
+        "otherNames": "Plasmoquine",
+        "risk": "High",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Pentaquine",
+        "otherNames": "-",
+        "risk": "High",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Primaquine",
+        "otherNames": "-",
+        "risk": "High",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Sulphanilamide",
+        "otherNames": "Rhinamid",
+        "risk": "High",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Sulphacetamide",
+        "otherNames": "Albucid, Bleph-10 Liquifilm, Cortucid, Isoptocetamide, Minims, Ocusol, Sulfaped, Sulphacalyre, Sultrin ",
+        "risk": "High",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Sulphapyridine",
+        "otherNames": "M & B 693",
+        "risk": "High",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Sulphamethoxazole",
+        "otherNames": "Co-Trimoxazole , Bactrin, Chemotrim, Comox, Contrimox, Fectrim, Laratrim, Septrin",
+        "risk": "High",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
+    },
+    {
+        "name": "Thiazosulphone",
+        "otherNames": "Promizole",
+        "risk": "High",
+        "sources": [
+            {
+                "name": "Brend Sickle Cell & Thalassaemia Centre",
+                "url": "http://www.sickle-thal.nwlh.nhs.uk/Blood/DrugsAndChemicalsToBeAviodedInG6PDDeficiency.aspx"
+            }
+        ]
     }
 ]
