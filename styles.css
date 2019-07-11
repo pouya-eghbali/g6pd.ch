@@ -6,31 +6,57 @@ html, body {
 }
 body {
     font-family: "Roboto", sans-serif;
-    padding-top: calc(2em + 80px);
+    padding-top: calc(2em + 130px);
+    background: url('drawing-1.svg') no-repeat center center fixed;
+    background-size: cover;
 }
 h1, h2, h3, h4, h5 {
     font-family: "Raleway", sans-serif;
 }
 #header {
     width: 100%;
-    box-shadow: 0px 0px 6px rgba(0,0,0,.4);
-    background: #fff;
     position: fixed;
     top: 0;
     z-index: 1;
+    color: #fff;
+    text-shadow: 1px 1px 2px rgba(0,0,0,.4);
+    background: url('drawing-1.svg') no-repeat center center fixed;
+    background-size: cover;
+}
+html:not([data-scroll='0']) #header-inner::after {
+    content: "x";
+    background: url('grad.svg') no-repeat center center fixed;
+    background-size: cover;
+    -webkit-mask-image: linear-gradient(black 20px, transparent);
+    mask-image: linear-gradient(black 35%, transparent);
+    width: 105%;
+    height: 80px;
+    color: transparent;
+    position: absolute;
+    bottom: -80px;
 }
 #header-inner {
     max-width: 960px;
     margin: 0 auto;
     display: flex;
+    flex-direction: column;
+    position: relative;
 }
 #searcher {
-    padding: 0 1em;
+    padding: .5em 1em;
     box-sizing: border-box;
     font-size: 2em;
     outline: none;
     border: none;
     font-weight: 200;
+    border: 1px solid rgba(0,0,0,.05);
+    border-radius: 4em;
+    box-shadow: 4px 4px 20px rgba(0,0,0,.4);
+    width: 100%;
+    background: #fff;
+}
+#search-container {
+    padding-bottom: 2em;
 }
 #results {
     max-width: 960px;
@@ -42,16 +68,13 @@ h1, h2, h3, h4, h5 {
     width: 100%;
     padding: 2em;
     transition: 0.4s ease-in all;
-    border: 1px solid rgba(0,0,0,.1);
-    border-radius: 4px;
+    border-radius: 1em;
     position: relative;
     padding-left: calc(2em + 4px);
     overflow: hidden;
     box-sizing: border-box;
-}
-.search-item:hover {
-    box-shadow: 1px 2px 6px rgba(0,0,0,.4);
-    border-color: transparent;
+    background: #fff;
+    box-shadow: 4px 4px 20px rgba(0,0,0,.4);
 }
 .sources a {
     display: block;
@@ -113,7 +136,7 @@ a:hover {
 /* RISK LEVELS */
 .search-item:before {
     height: 100%;
-    width: 4px;
+    width: 5px;
     position: absolute;
     left: 0;
     top: 0;
@@ -123,7 +146,7 @@ a:hover {
     background: #c8c8c8;
 }
 .search-item.risk-high:before {
-    background: #c82222;
+    background: #ec147dff;
 }
 .search-item.risk-medium:before {
     background: #e4a92b;
@@ -143,6 +166,7 @@ a:hover {
     background: rgba(96, 34, 96, 0.1);
     box-sizing: border-box;
     position: relative;
+    display: none;
 }
 #about > div {
     margin-top: 1.4em;

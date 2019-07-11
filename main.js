@@ -53,6 +53,10 @@ searcher.addEventListener("keyup", function (event) {
         }
         return item.element.style.display = "none";
     })
+    window.scrollTo({
+        top: 0,
+        behavior: 'smooth',
+    })
 })
 const about = document.getElementById("about");
 const close = document.getElementById("close-about");
@@ -61,3 +65,6 @@ close.addEventListener("click", function (event) {
     event.preventDefault();
     about.style.display = "none";
 })
+document.addEventListener('scroll', () => {
+  document.documentElement.dataset.scroll = window.scrollY;
+});
