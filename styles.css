@@ -54,6 +54,7 @@ html:not([data-scroll='0']) #header-inner::after {
     box-shadow: 4px 4px 20px rgba(0,0,0,.4);
     width: 100%;
     background: #fff;
+    transition: .3s ease-in all;
 }
 #search-container {
     padding-bottom: 2em;
@@ -162,11 +163,14 @@ a:hover {
     max-width: 960px;
     margin: 0 auto;
     padding: 2em;
-    border: 1px solid rgba(0,0,0,.1);
-    background: rgba(96, 34, 96, 0.1);
+    border: 1px solid rgba(0,0,0,.05);
+    background: #fff;
     box-sizing: border-box;
     position: relative;
-    display: none;
+    display: block;
+    border-radius: 1em;
+    margin-top: 2em;
+    box-shadow: 4px 4px 20px rgba(0,0,0,.4);
 }
 #about > div {
     margin-top: 1.4em;
