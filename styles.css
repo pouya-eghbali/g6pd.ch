@@ -191,9 +191,27 @@ a:hover {
   #searcher {
       font-size: 1em;
       padding: 1em;
+      margin-top: 1em;
   }
   .search-item {
       margin-top: .5em;
+  }
+  #about, .search-item {
+      border-radius: .5em;
+  }
+  #about {
+      margin: 0.5em;
+      margin-top: 1.5em;
+      max-width: 100%;
+  }
+  #results {
+      padding: .5em;
+      box-sizing: border-box;
+      padding-top: 0;
+  }
+  #search-container {
+      padding: .5em;
+      padding-top: 1em;
   }
   body {
       padding-top: calc(.5em + 50px);
